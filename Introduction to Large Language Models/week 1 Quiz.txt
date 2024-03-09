@@ -1,5 +1,5 @@
 Question 1
-What are large language models (LLMs)?:
+What are large language models (LLMs)?: 
 
 Answer:-
 An LLM is a type of artificial intelligence (AI) that can generate human-quality text. LLMs are trained on massive datasets of text and code, and they can be used for many tasks, such as writing, translating, and coding.
