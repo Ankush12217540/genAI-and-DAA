@@ -2,7 +2,7 @@
 Which of the following is true of the number of comparisons used by Mergesort?
  
 Answers:-
-Is less than N lg N + N/4 for all N
+Is less than N lg N + N/4 for all N 
 
 Has periodic behavior
 
