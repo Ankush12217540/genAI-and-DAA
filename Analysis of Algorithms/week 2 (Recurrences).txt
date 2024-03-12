@@ -7,7 +7,7 @@ Is less than N lg N + N/4 for all N
 Has periodic behavior
 
 Exactly N lg N when N is a power of 2
-
+ 
 Order of growth is N lg N
 
 Question 2
