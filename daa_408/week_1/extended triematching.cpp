@@ -6,7 +6,7 @@
 #include <vector>
 
 using namespace std;
-
+ 
 int const Letters =    4;
 int const NA      =   -1;
 
