@@ -1,10 +1,10 @@
-
+  
 Question 1
 Of the following, which is the best approximation to the probability that a permutation of size N has exactly 2 cycles?
 
 Answer:-
 1/N
-
+ 
 
 Question 2
 Which event is least likely, in a random permutation of size 1000?
