@@ -4,11 +4,11 @@ What is the order of growth of the solution to the Quicksort-like recurrence
 Fn = 2N + 1 + 1/N ∑ 1<=k<=N (Fk-1 + FN-k) with F0 = 0?
 
 Answer:-
-NlogN
+NlogN. 
 
-                        OR 
+                         OR 
 
-What is the order of growth of the solution to the Quicksort-like recurrence
+What is the order of growth of the solution to the Quicksort-like recurrence 
 Fn = N^2 + 1 + 1/N ∑ 1<=k<=N (Fk-1 + FN-k) with F0 = 0?
 
 Answer:-
