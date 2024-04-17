@@ -2,7 +2,7 @@
 Question 1 
 Which of the following is an example of human-centered design in AI?
   
-Answer:-    
+Answer:-     
 - Creating a chatbot that mimics human conversation without taking into account the emotional state of the user. 
 
 - Designing a voice assistant that recognizes different accents and dialects to provide more accurate responses.
