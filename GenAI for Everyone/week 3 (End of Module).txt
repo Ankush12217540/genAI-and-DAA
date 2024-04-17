@@ -2,12 +2,12 @@
 Question 1
 Which of the following is a major ethical concern related to AI?
 
-Answer:-
+Answer:- 
 Transparency and explainability
 
 
 
-Question 2
+Question 2 
 What is one potential limitation of AI when it comes to decision making?
 
 Answer:-
