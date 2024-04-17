@@ -12,7 +12,7 @@ What is one potential limitation of AI when it comes to decision making?
 
 Answer:-
 Bias in the data used
-
+ 
 
 
 Question 3
