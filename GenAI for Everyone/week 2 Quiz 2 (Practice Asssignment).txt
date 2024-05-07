@@ -10,7 +10,7 @@ To generate high-quality and relevant content
 Question 2
 Which of the following best describes prompt engineering in content generation? 
 
-Answer:-
+Answer:-  
 The practice of providing specific instructions or prompts for content creation.
 
 
