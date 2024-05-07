@@ -13,7 +13,7 @@ Answer:-
 Generative Pre-trained Transformer
 
 
-
+ 
 Question 3
 Why is AI customized for different use cases or needs?
 
