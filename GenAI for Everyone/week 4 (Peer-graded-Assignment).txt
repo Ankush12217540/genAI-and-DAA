@@ -10,7 +10,7 @@ Designed for a broad audience, MindMate caters to individuals managing daily str
 
 Features and Implementation:
 
-Personalized Well-being Plans:
+Personalized Well-being Plans: 
 
 Analyzes user preferences and lifestyle to create tailored well-being plans.
 Conversational AI for Emotional Support:
