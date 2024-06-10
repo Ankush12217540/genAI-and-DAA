@@ -6,7 +6,7 @@ Answer:-
 RLHF helps to align an LLM to human preferences, and can reduce the bias of an LLM’s output.
 
 
-
+ 
 Question 2
 True or False. Because AI automates tasks, not jobs, absolutely no jobs will disappear because of AI. 
 
